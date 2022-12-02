@@ -1,0 +1,89 @@
+body
+{
+	background-color: hotpink;
+	text-align: center;
+}
+h1
+{
+	color: burlywood;
+	font-family: verdana;
+	font-size: 2em;
+}
+div
+{
+	border: 2px solid lightblue;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 32px;
+
+}
+
+button
+{
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 26px;
+	background-color: lightsteelblue;
+	height: 60px;
+	margin-top: 5px;
+	box-shadow: 25px;
+
+}
+
+button:hover {
+	background-color: black;
+	color: lightsteelblue;
+	border: 2px solid white;
+	transform: rotate(5deg);
+	cursor: pointer;
+}
+.b1
+{
+	background-color: black;
+
+}
+.d1
+{
+	border: 2px solid blue;
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 26px;
+	padding: 15px 32px;
+}
+.pw
+{
+	border-radius: 26px;
+	background-color: black;
+	color: white;
+	border: 2px solid white;
+}
+.b2
+{
+	width: 300px;
+	border: 2px solid blue;
+	border-radius: 26px;
+	background-color: blue;
+	height: 60px;
+	margin-top: 5px;
+	box-shadow: 25px;
+	color: black;
+
+}
+.b2:hover{
+background-color: blue;
+	color: black;
+	border: 2px solid blue;
+	transform: rotate(5deg);
+	cursor: pointer;
+}
+.t1
+{
+	background-color: blue ;
+	color: black;
+	
+	
+	
+}
