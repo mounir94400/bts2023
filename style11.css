@@ -1,0 +1,37 @@
+body
+{
+	background-color: rgb(17, 170, 230);
+	text-align: center;
+	margin-top: 150px;
+	margin-left: 150px;
+}
+
+div
+{
+	height: 250px;
+	width: 200px;
+	border: 2px solid black;
+	float: left;
+	margin-right: 20px;
+}
+
+.c1
+{
+	background-color: mediumspringgreen;
+}
+
+.c2
+{
+	background-color: steelblue;
+	height: 160px;
+}
+
+.c3
+{
+	background-color: darkorchid;
+}
+
+.c4
+{
+	clear: both;
+}
