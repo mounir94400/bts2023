@@ -1,0 +1,39 @@
+corps
+{
+    couleur de fond : rouge foncé ;
+}
+
+h1
+{
+    couleur : orange foncé ;
+    aligner le texte : centrer ;
+}
+
+h2{
+    La couleur rouge
+}
+
+.ecrit1{
+    Couleur jaune
+}
+
+.ecrit2{
+    couleur : RVB (37, 139, 0) ;
+}
+
+.cadre1{
+    couleur de fond : noir ;
+    bordure : 4px blanc solide ;
+    aligner le texte : centrer ;
+    largeur : 75 % ;
+    marge-gauche : auto ;
+    marge droite : auto ;
+}
+
+.cadre2{
+    couleur d'arrière-plan : rgba (255, 0, 251, 0,311) ;
+    bordure : 4px RVB solide (242, 255, 0) ;
+    aligner le texte : centrer ;
+    largeur : 75 % ;
+    marge-gauche : 12 % ;
+}
